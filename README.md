@@ -1,2 +1,2 @@
 # TermStab
-TermStab: a tool for the estimation of thermal stability from amino acid sequences of proteins
+TermStab: a tool for the estimation of thermal stability from the amino acid sequences of proteins
